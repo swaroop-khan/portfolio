@@ -1,7 +1,10 @@
----
-title: "portfolio"
----
+# Hi, I'm Swaroop Khan 👋
 
-This is a Quarto website.
+### Computer Science Engineering Student | AI & ML Enthusiast
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a B.Tech student passionate about **Artificial Intelligence, Machine Learning, and technology**.
+
+🎓 CSE — Artificial Intelligence & Machine Learning
+📅 Class of 2029
+
+> Learning, building, and exploring — one step at a time.

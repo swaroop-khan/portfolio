@@ -1,5 +1,29 @@
----
-title: "About"
----
+## About Me
 
-About this site
+I'm **Swaroop Khan**, currently pursuing my **B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning**, with an expected graduation in **2029**.
+
+I'm curious about how technology can be used to solve real-world problems and I'm especially interested in exploring **Artificial Intelligence and Machine Learning** in greater depth.
+
+### 🎓 Education
+
+**Bachelor of Technology (B.Tech)**
+Computer Science Engineering — Artificial Intelligence & Machine Learning
+**Expected Graduation: 2029**
+
+### 💡 Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Programming & Problem Solving
+* Exploring new technologies
+
+### 🛠️ Technologies
+
+**Languages:** C, C++, Python
+**Libraries & Tools:** NumPy, Pandas, Matplotlib, Plotly, Scikit-learn
+**Other:** JSON, Arduino, Git & GitHub
+
+### 🌱 My Approach
+
+I'm focused on continuously learning, experimenting with new technologies, and turning what I learn into practical projects.
