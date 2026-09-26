@@ -6,8 +6,8 @@ I'm curious about how technology can be used to solve real-world problems and I'
 
 ### 🎓 Education
 
-**Bachelor of Technology (B.Tech)**
-Computer Science Engineering — Artificial Intelligence & Machine Learning
+**Bachelor of Technology (B.Tech)**  
+Computer Science Engineering — Artificial Intelligence & Machine Learning  
 **Expected Graduation: 2029**
 
 ### 💡 Interests
@@ -20,9 +20,9 @@ Computer Science Engineering — Artificial Intelligence & Machine Learning
 
 ### 🛠️ Technologies
 
-**Languages:** C, C++, Python
-**Libraries & Tools:** NumPy, Pandas, Matplotlib, Plotly, Scikit-learn
-**Other:** JSON, Arduino, Git & GitHub
+**Languages:** C, C++, Python  
+**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Plotly, Scikit-learn  
+**Databases & Tools:** Supabase, JSON, Arduino, Git & GitHub  
 
 ### 🌱 My Approach
 
