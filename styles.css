@@ -1,1 +1,218 @@
-/* css styles */
+/* Blue and navy palette */
+:root {
+  --portfolio-blue: #2378b8;
+  --portfolio-blue-dark: #155f99;
+  --portfolio-navy: #0b1f35;
+  --portfolio-text: #24364a;
+  --portfolio-muted: #64778a;
+  --portfolio-line: #d9e4ee;
+  --portfolio-page: #f7faff;
+  --portfolio-card: #ffffff;
+}
+
+body.portfolio-home {
+  background: var(--portfolio-page);
+  color: var(--portfolio-text);
+  font-family: Inter, "Segoe UI", Arial, sans-serif;
+}
+
+body.portfolio-home #quarto-header,
+body.portfolio-home #title-block-header {
+  display: none;
+}
+
+body.portfolio-home #quarto-content.quarto-container.page-columns {
+  display: block !important;
+  width: 100%;
+  max-width: none !important;
+  margin: 0;
+  padding: 0;
+}
+
+body.portfolio-home main#quarto-document-content.content {
+  display: block;
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+
+.portfolio-layout {
+  display: grid;
+  grid-template-columns: minmax(245px, 300px) minmax(0, 760px);
+  gap: clamp(2.5rem, 7vw, 6.5rem);
+  align-items: start;
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: clamp(2rem, 5vw, 4.5rem) clamp(1.25rem, 4vw, 3rem);
+}
+
+.profile-sidebar {
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+  min-width: 0;
+  padding: 0 2rem 2rem 0;
+  border-right: 1px solid var(--portfolio-line);
+  color: var(--portfolio-muted);
+  line-height: 1.65;
+}
+
+.profile-sidebar h2 {
+  margin: 0 0 1.15rem;
+  color: var(--portfolio-blue);
+  font-size: 1rem;
+  font-weight: 750;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.profile-sidebar h3 {
+  margin: .6rem 0 .65rem;
+  color: var(--portfolio-navy);
+  font-size: 1.8rem;
+  letter-spacing: -.035em;
+}
+
+.profile-sidebar h4 {
+  margin-top: 2rem;
+  color: var(--portfolio-navy);
+  font-size: 1rem;
+}
+
+.profile-role {
+  color: var(--portfolio-blue-dark);
+  font-weight: 650;
+  line-height: 1.5;
+}
+
+.profile-socials {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem 1rem;
+  margin-top: 1.6rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--portfolio-line);
+  font-weight: 650;
+}
+
+.portfolio-main {
+  min-width: 0;
+  padding: 0 0 3rem;
+}
+
+.portfolio-main > h1 {
+  margin: 0;
+  color: var(--portfolio-navy);
+  font-size: clamp(2rem, 3vw, 2.65rem);
+  font-weight: 760;
+  letter-spacing: -.04em;
+}
+
+.portfolio-nav {
+  margin: 1rem 0 2.25rem;
+  padding: .85rem 0;
+  border-bottom: 1px solid var(--portfolio-line);
+  color: var(--portfolio-blue);
+  font-size: .96rem;
+}
+
+.portfolio-main h2 {
+  margin-top: 2.6rem;
+  padding-bottom: .5rem;
+  border-bottom: 1px solid var(--portfolio-line);
+  color: var(--portfolio-navy);
+  font-size: 1.45rem;
+  font-weight: 730;
+}
+
+.portfolio-main h3 {
+  margin-top: 1.65rem;
+  color: var(--portfolio-navy);
+  font-size: 1.12rem;
+  font-weight: 700;
+}
+
+.portfolio-main p,
+.portfolio-main li {
+  color: var(--portfolio-text);
+  line-height: 1.7;
+}
+
+.portfolio-main a,
+.profile-sidebar a {
+  color: var(--portfolio-blue);
+  text-decoration: none;
+}
+
+.portfolio-main a:hover,
+.profile-sidebar a:hover {
+  color: var(--portfolio-blue-dark);
+  text-decoration: underline;
+}
+
+.portfolio-main strong,
+.contact-list strong {
+  color: var(--portfolio-navy);
+}
+
+.portfolio-main iframe {
+  display: block;
+  width: 100%;
+  min-height: 680px;
+  margin-top: 1rem;
+  background: #fff;
+}
+
+.contact-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-list li {
+  padding: .35rem 0;
+}
+
+.contact-list strong {
+  display: inline-block;
+  min-width: 6.5rem;
+}
+
+@media (max-width: 850px) {
+  .portfolio-layout {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    max-width: 720px;
+  }
+
+  .profile-sidebar {
+    position: static;
+    padding: 0 0 1.6rem;
+    border-right: 0;
+    border-bottom: 1px solid var(--portfolio-line);
+  }
+
+  .portfolio-main > h1 {
+    font-size: 2rem;
+  }
+
+  body.portfolio-home main#quarto-document-content.content {
+    padding-left: .5rem !important;
+    padding-right: .5rem !important;
+  }
+}
+
+@media (max-width: 520px) {
+  .portfolio-layout {
+    padding: 1.5rem 1rem;
+  }
+
+  .contact-list strong {
+    min-width: 5.5rem;
+  }
+
+  .portfolio-main iframe {
+    min-height: 520px;
+  }
+}

@@ -1,28 +1,48 @@
 ---
 title: "Swaroop Khan's Portfolio"
+format:
+  html:
+    body-classes: portfolio-home
+    toc: false
 ---
 
+:::: {.portfolio-layout}
+
+::: {.profile-sidebar}
 ## About Me {#about-me}
 
-I'm **Swaroop Khan**, a Computer Science Engineering student at Reva University, Bengaluru, specializing in Artificial Intelligence and Machine Learning. I expect to graduate in 2029.
+### Swaroop Khan
 
-I enjoy building practical software and machine learning projects, from data analysis and predictive models to browser based AI applications.
+<p class="profile-role">Computer Science Engineering Student<br>Artificial Intelligence &amp; Machine Learning</p>
+
+I’m a B.Tech student at Reva University, Bengaluru, interested in applying AI and machine learning to practical problems. I enjoy building projects that connect data, models, and usable applications.
 
 ### Education
 
-**Reva University, Bengaluru**  
-B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)  
-Expected 2029 · CGPA: 8.62/10
+**Reva University**  
+B.Tech CSE — AI &amp; ML  
+Expected 2029 · CGPA 8.62/10
 
-**Primus Public School, Bengaluru**  
-Class XII: Physics, Chemistry, Mathematics and Computer Science  
-2025 · 90%
+**Primus Public School**  
+Class XII · 90% (2025)
 
----
+<div class="profile-socials">
+<a href="https://github.com/swaroop-khan">GitHub</a>
+<a href="https://linkedin.com/in/swaroop-khan">LinkedIn</a>
+<a href="https://leetcode.com/u/swaroop-khan/">LeetCode</a>
+</div>
+:::
+
+::: {.portfolio-main}
+# Swaroop Khan’s Portfolio
+
+::: {.portfolio-nav}
+[Projects](#projects) · [Technical Skills](#technical-skills) · [Certificates](#certificates) · [Resume](#resume) · [Contact](#contact)
+:::
 
 ## Projects {#projects}
 
-Selected projects featured on my resume.
+Selected projects pinned on GitHub, excluding the graphic editor.
 
 ### VoxHire — AI Voice Interviewer
 
@@ -56,8 +76,6 @@ An end to end classification project with feature engineering, model comparison,
 
 [Source code](https://github.com/swaroop-khan/titanic-survival-ml)
 
----
-
 ## Technical Skills {#technical-skills}
 
 - **Programming:** Python, C, C++, JavaScript, SQL
@@ -66,10 +84,6 @@ An end to end classification project with feature engineering, model comparison,
 - **Web and application development:** Node.js, HTML, CSS, Next.js, React, Tailwind CSS, Streamlit
 - **APIs and data:** REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL
 - **Tools and deployment:** Git, GitHub, Render, Vercel, Kaggle, Arduino, Requests, python-dotenv
-
-These technologies are reflected across my repositories, including data analysis notebooks, machine learning projects, web applications, and API integrations.
-
----
 
 ## Certificates {#certificates}
 
@@ -81,19 +95,22 @@ These technologies are reflected across my repositories, including data analysis
 - Claude Code in Action — Anthropic (March 2026)
 - Claude 101 — Anthropic (March 2026)
 
----
-
 ## Resume {#resume}
 
 [Download my resume (PDF)](resume.pdf){download="Swaroop_Khan_Resume.pdf"} · [Open the PDF in a new tab](resume.pdf)
 
-<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
-
----
+<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #d6e3f0; border-radius: 12px;"></iframe>
 
 ## Contact {#contact}
 
-- [GitHub](https://github.com/swaroop-khan)
-- [LinkedIn](https://linkedin.com/in/swaroop-khan)
-- [LeetCode](https://leetcode.com/u/swaroop-khan/)
-- [Email](mailto:swaroopkhanp@gmail.com)
+<ul class="contact-list">
+  <li><strong>Name:</strong> Swaroop Khan</li>
+  <li><strong>Phone:</strong> <a href="tel:+918431651691">+91 8431651691</a></li>
+  <li><strong>Email:</strong> <a href="mailto:swaroopkhanp@gmail.com">swaroopkhanp@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/swaroop-khan">Swaroop Khan</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/swaroop-khan">swaroop-khan</a></li>
+  <li><strong>LeetCode:</strong> <a href="https://leetcode.com/u/swaroop-khan/">swaroop-khan</a></li>
+</ul>
+:::
+
+::::
