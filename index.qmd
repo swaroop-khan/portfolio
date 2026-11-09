@@ -2,9 +2,8 @@
 
 ### Computer Science Engineering Student | AI & ML Enthusiast
 
-I'm a B.Tech student passionate about **Artificial Intelligence, Machine Learning, and technology**.
+I'm a B.Tech student at Reva University, specializing in **Artificial Intelligence and Machine Learning** (Class of 2029). I enjoy turning ideas into practical software, data science, and machine learning projects.
 
-🎓 CSE — Artificial Intelligence & Machine Learning
-📅 Class of 2029
+**Currently exploring:** AI agents, predictive modeling, and full stack application development.
 
-> Learning, building, and exploring, one step at a time.
+[Explore my projects](projects.qmd) · [View my resume](resume.qmd) · [Connect on LinkedIn](https://linkedin.com/in/swaroop-khan)
