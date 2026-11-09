@@ -2,10 +2,6 @@
 title: "Resume"
 ---
 
-## Swaroop Khan
+## Resume
 
-[Download the resume (PDF)](resume.pdf){download="Swaroop_Khan_Resume.pdf"}
-
-<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
-
-[Open the PDF in a new tab](resume.pdf)
+[Open my resume (PDF)](resume.pdf){.resume-link}

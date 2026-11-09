@@ -15,8 +15,8 @@ website:
         text: Technical Skills
       - href: index.qmd#certificates
         text: Certificates
-      - href: index.qmd#resume
-        text: Resume
+      - href: resume.pdf
+        text: My Resume
       - href: index.qmd#contact
         text: Contact
 

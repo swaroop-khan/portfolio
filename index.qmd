@@ -17,27 +17,13 @@ format:
 
 I’m a B.Tech student at Reva University, Bengaluru, interested in applying AI and machine learning to practical problems. I enjoy building projects that connect data, models, and usable applications.
 
-### Education
-
-**Reva University**  
-B.Tech CSE — AI &amp; ML  
-Expected 2029 · CGPA 8.62/10
-
-**Primus Public School**  
-Class XII · 90% (2025)
-
-<div class="profile-socials">
-<a href="https://github.com/swaroop-khan">GitHub</a>
-<a href="https://linkedin.com/in/swaroop-khan">LinkedIn</a>
-<a href="https://leetcode.com/u/swaroop-khan/">LeetCode</a>
-</div>
 :::
 
 ::: {.portfolio-main}
 # Swaroop Khan’s Portfolio
 
 ::: {.portfolio-nav}
-[Projects](#projects) · [Technical Skills](#technical-skills) · [Certificates](#certificates) · [Resume](#resume) · [Contact](#contact)
+[Projects](#projects) · [Technical Skills](#technical-skills) · [Certificates](#certificates) · [My Resume](resume.pdf) · [Contact](#contact)
 :::
 
 ## Projects {#projects}
@@ -97,9 +83,7 @@ An end to end classification project with feature engineering, model comparison,
 
 ## Resume {#resume}
 
-[Download my resume (PDF)](resume.pdf){download="Swaroop_Khan_Resume.pdf"} · [Open the PDF in a new tab](resume.pdf)
-
-<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #d6e3f0; border-radius: 12px;"></iframe>
+[Open my resume (PDF)](resume.pdf){.resume-link}
 
 ## Contact {#contact}
 
