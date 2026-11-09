@@ -79,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
+<body class="nav-fixed portfolio-home fullcontent quarto-light"><a id="quarto-skip-link" class="visually-hidden-focusable" href="#quarto-document-content">Skip to main content</a>
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -131,29 +131,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" aria-labelledby="toc-title" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#about-me" id="toc-about-me" class="nav-link active" data-scroll-target="#about-me">About Me</a>
-  <ul class="collapse">
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  </ul></li>
-  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a>
-  <ul class="collapse">
-  <li><a href="#voxhire-ai-voice-interviewer" id="toc-voxhire-ai-voice-interviewer" class="nav-link" data-scroll-target="#voxhire-ai-voice-interviewer">VoxHire — AI Voice Interviewer</a></li>
-  <li><a href="#telecom-customer-churn-prediction" id="toc-telecom-customer-churn-prediction" class="nav-link" data-scroll-target="#telecom-customer-churn-prediction">Telecom Customer Churn Prediction</a></li>
-  <li><a href="#house-price-prediction" id="toc-house-price-prediction" class="nav-link" data-scroll-target="#house-price-prediction">House Price Prediction</a></li>
-  <li><a href="#titanic-survival-prediction" id="toc-titanic-survival-prediction" class="nav-link" data-scroll-target="#titanic-survival-prediction">Titanic Survival Prediction</a></li>
-  </ul></li>
-  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link" data-scroll-target="#technical-skills">Technical Skills</a></li>
-  <li><a href="#certificates" id="toc-certificates" class="nav-link" data-scroll-target="#certificates">Certificates</a></li>
-  <li><a href="#resume" id="toc-resume" class="nav-link" data-scroll-target="#resume">Resume</a></li>
-  <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content" tabindex="-1">
 
@@ -176,24 +154,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="about-me" class="level2">
+<div class="portfolio-layout">
+<section id="about-me" class="level2 profile-sidebar">
 <h2 class="anchored" data-anchor-id="about-me">About Me</h2>
-<p>I’m <strong>Swaroop Khan</strong>, a Computer Science Engineering student at Reva University, Bengaluru, specializing in Artificial Intelligence and Machine Learning. I expect to graduate in 2029.</p>
-<p>I enjoy building practical software and machine learning projects, from data analysis and predictive models to browser based AI applications.</p>
+<section id="swaroop-khan" class="level3">
+<h3 class="anchored" data-anchor-id="swaroop-khan">Swaroop Khan</h3>
+<p class="profile-role">
+Computer Science Engineering Student<br>Artificial Intelligence &amp; Machine Learning
+</p>
+<p>I’m a B.Tech student at Reva University, Bengaluru, interested in applying AI and machine learning to practical problems. I enjoy building projects that connect data, models, and usable applications.</p>
+</section>
 <section id="education" class="level3">
 <h3 class="anchored" data-anchor-id="education">Education</h3>
-<p><strong>Reva University, Bengaluru</strong><br>
-B.Tech in Computer Science Engineering (Artificial Intelligence &amp; Machine Learning)<br>
-Expected 2029 · CGPA: 8.62/10</p>
-<p><strong>Primus Public School, Bengaluru</strong><br>
-Class XII: Physics, Chemistry, Mathematics and Computer Science<br>
-2025 · 90%</p>
-<hr>
+<p><strong>Reva University</strong><br>
+B.Tech CSE — AI &amp; ML<br>
+Expected 2029 · CGPA 8.62/10</p>
+<p><strong>Primus Public School</strong><br>
+Class XII · 90% (2025)</p>
+<div class="profile-socials">
+<p><a href="https://github.com/swaroop-khan">GitHub</a> <a href="https://linkedin.com/in/swaroop-khan">LinkedIn</a> <a href="https://leetcode.com/u/swaroop-khan/">LeetCode</a></p>
+</div>
 </section>
 </section>
+<section id="swaroop-khans-portfolio" class="level1 portfolio-main">
+<h1>Swaroop Khan’s Portfolio</h1>
+<div class="portfolio-nav">
+<p><a href="#projects">Projects</a> · <a href="#technical-skills">Technical Skills</a> · <a href="#certificates">Certificates</a> · <a href="#resume">Resume</a> · <a href="#contact">Contact</a></p>
+</div>
 <section id="projects" class="level2">
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<p>Selected projects featured on my resume.</p>
+<p>Selected projects pinned on GitHub, excluding the graphic editor.</p>
 <section id="voxhire-ai-voice-interviewer" class="level3">
 <h3 class="anchored" data-anchor-id="voxhire-ai-voice-interviewer">VoxHire — AI Voice Interviewer</h3>
 <p>A browser based AI interviewer that conducts adaptive technical interviews, asks follow-up questions, evaluates answers, and produces a performance report.</p>
@@ -217,7 +207,6 @@ Class XII: Physics, Chemistry, Mathematics and Computer Science<br>
 <p>An end to end classification project with feature engineering, model comparison, hyperparameter tuning, and cross validation to predict passenger survival.</p>
 <p><strong>Built with:</strong> Python, scikit-learn</p>
 <p><a href="https://github.com/swaroop-khan/titanic-survival-ml">Source code</a></p>
-<hr>
 </section>
 </section>
 <section id="technical-skills" class="level2">
@@ -230,8 +219,6 @@ Class XII: Physics, Chemistry, Mathematics and Computer Science<br>
 <li><strong>APIs and data:</strong> REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL</li>
 <li><strong>Tools and deployment:</strong> Git, GitHub, Render, Vercel, Kaggle, Arduino, Requests, python-dotenv</li>
 </ul>
-<p>These technologies are reflected across my repositories, including data analysis notebooks, machine learning projects, web applications, and API integrations.</p>
-<hr>
 </section>
 <section id="certificates" class="level2">
 <h2 class="anchored" data-anchor-id="certificates">Certificates</h2>
@@ -244,26 +231,40 @@ Class XII: Physics, Chemistry, Mathematics and Computer Science<br>
 <li>Claude Code in Action — Anthropic (March 2026)</li>
 <li>Claude 101 — Anthropic (March 2026)</li>
 </ul>
-<hr>
 </section>
 <section id="resume" class="level2">
 <h2 class="anchored" data-anchor-id="resume">Resume</h2>
 <p><a href="resume.pdf" download="Swaroop_Khan_Resume.pdf">Download my resume (PDF)</a> · <a href="resume.pdf">Open the PDF in a new tab</a></p>
-<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #ddd; border-radius: 8px;">
+<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #d6e3f0; border-radius: 12px;">
 </iframe>
-<hr>
 </section>
 <section id="contact" class="level2">
 <h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<ul>
-<li><a href="https://github.com/swaroop-khan">GitHub</a></li>
-<li><a href="https://linkedin.com/in/swaroop-khan">LinkedIn</a></li>
-<li><a href="https://leetcode.com/u/swaroop-khan/">LeetCode</a></li>
-<li><a href="mailto:swaroopkhanp@gmail.com">Email</a></li>
+<ul class="contact-list">
+<li>
+<strong>Name:</strong> Swaroop Khan
+</li>
+<li>
+<strong>Phone:</strong> <a href="tel:+918431651691">+91 8431651691</a>
+</li>
+<li>
+<strong>Email:</strong> <a href="mailto:swaroopkhanp@gmail.com">swaroopkhanp@gmail.com</a>
+</li>
+<li>
+<strong>LinkedIn:</strong> <a href="https://linkedin.com/in/swaroop-khan">Swaroop Khan</a>
+</li>
+<li>
+<strong>GitHub:</strong> <a href="https://github.com/swaroop-khan">swaroop-khan</a>
+</li>
+<li>
+<strong>LeetCode:</strong> <a href="https://leetcode.com/u/swaroop-khan/">swaroop-khan</a>
+</li>
 </ul>
-
-
 </section>
+</section>
+</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

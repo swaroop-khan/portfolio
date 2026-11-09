@@ -18,49 +18,49 @@
     "href": "index.html",
     "title": "Swaroop Khan’s Portfolio",
     "section": "",
-    "text": "I’m Swaroop Khan, a Computer Science Engineering student at Reva University, Bengaluru, specializing in Artificial Intelligence and Machine Learning. I expect to graduate in 2029.\nI enjoy building practical software and machine learning projects, from data analysis and predictive models to browser based AI applications.\n\n\nReva University, Bengaluru\nB.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)\nExpected 2029 · CGPA: 8.62/10\nPrimus Public School, Bengaluru\nClass XII: Physics, Chemistry, Mathematics and Computer Science\n2025 · 90%"
+    "text": "Computer Science Engineering StudentArtificial Intelligence & Machine Learning\n\nI’m a B.Tech student at Reva University, Bengaluru, interested in applying AI and machine learning to practical problems. I enjoy building projects that connect data, models, and usable applications.\n\n\n\nReva University\nB.Tech CSE — AI & ML\nExpected 2029 · CGPA 8.62/10\nPrimus Public School\nClass XII · 90% (2025)\n\nGitHub LinkedIn LeetCode\n\n\n\n\n\n\nProjects · Technical Skills · Certificates · Resume · Contact\n\n\n\nSelected projects pinned on GitHub, excluding the graphic editor.\n\n\nA browser based AI interviewer that conducts adaptive technical interviews, asks follow-up questions, evaluates answers, and produces a performance report.\nBuilt with: JavaScript, Node.js, AssemblyAI Voice Agent API, WebSockets, Render\nLive demo · Source code\n\n\n\nAn end to end machine learning project for predicting telecom customer churn, with preprocessing, class imbalance handling, Optuna tuning, and a Streamlit prediction app.\nBuilt with: Python, scikit-learn, SMOTE, Optuna, Streamlit, Pandas\nSource code\n\n\n\nA Kaggle regression project using preprocessing, feature engineering, and Gradient Boosting to predict residential sale prices.\nBuilt with: Python, Pandas, Gradient Boosting\nSource code\n\n\n\nAn end to end classification project with feature engineering, model comparison, hyperparameter tuning, and cross validation to predict passenger survival.\nBuilt with: Python, scikit-learn\nSource code\n\n\n\n\n\nProgramming: Python, C, C++, JavaScript, SQL\nMachine learning and data science: scikit-learn, Gradient Boosting, XGBoost, feature engineering, NumPy, Pandas, Matplotlib, Seaborn, Plotly\nModel development: Optuna, SMOTE (imbalanced-learn), Joblib, Jupyter\nWeb and application development: Node.js, HTML, CSS, Next.js, React, Tailwind CSS, Streamlit\nAPIs and data: REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL\nTools and deployment: Git, GitHub, Render, Vercel, Kaggle, Arduino, Requests, python-dotenv\n\n\n\n\n\nPython for Data Science — IBM (April 2026)\nData Analysis Using Python — IBM (April 2026)\nData Visualization Using Python — IBM (April 2026)\nClaude Code 101 — Anthropic (April 2026)\nAI Fluency: Framework & Foundations — Anthropic (March 2026)\nClaude Code in Action — Anthropic (March 2026)\nClaude 101 — Anthropic (March 2026)\n\n\n\n\nDownload my resume (PDF) · Open the PDF in a new tab\n\n\n\n\n\n\n\nName: Swaroop Khan\n\n\nPhone: +91 8431651691\n\n\nEmail: swaroopkhanp@gmail.com\n\n\nLinkedIn: Swaroop Khan\n\n\nGitHub: swaroop-khan\n\n\nLeetCode: swaroop-khan"
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Swaroop Khan’s Portfolio",
     "section": "",
-    "text": "I’m Swaroop Khan, a Computer Science Engineering student at Reva University, Bengaluru, specializing in Artificial Intelligence and Machine Learning. I expect to graduate in 2029.\nI enjoy building practical software and machine learning projects, from data analysis and predictive models to browser based AI applications.\n\n\nReva University, Bengaluru\nB.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)\nExpected 2029 · CGPA: 8.62/10\nPrimus Public School, Bengaluru\nClass XII: Physics, Chemistry, Mathematics and Computer Science\n2025 · 90%"
+    "text": "Computer Science Engineering StudentArtificial Intelligence & Machine Learning\n\nI’m a B.Tech student at Reva University, Bengaluru, interested in applying AI and machine learning to practical problems. I enjoy building projects that connect data, models, and usable applications.\n\n\n\nReva University\nB.Tech CSE — AI & ML\nExpected 2029 · CGPA 8.62/10\nPrimus Public School\nClass XII · 90% (2025)\n\nGitHub LinkedIn LeetCode"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Swaroop Khan’s Portfolio",
-    "section": "Projects",
-    "text": "Projects\nSelected projects featured on my resume.\n\nVoxHire — AI Voice Interviewer\nA browser based AI interviewer that conducts adaptive technical interviews, asks follow-up questions, evaluates answers, and produces a performance report.\nBuilt with: JavaScript, Node.js, AssemblyAI Voice Agent API, WebSockets, Render\nLive demo · Source code\n\n\nTelecom Customer Churn Prediction\nAn end to end machine learning project for predicting telecom customer churn, with preprocessing, class imbalance handling, Optuna tuning, and a Streamlit prediction app.\nBuilt with: Python, scikit-learn, SMOTE, Optuna, Streamlit, Pandas\nSource code\n\n\nHouse Price Prediction\nA Kaggle regression project using preprocessing, feature engineering, and Gradient Boosting to predict residential sale prices.\nBuilt with: Python, Pandas, Gradient Boosting\nSource code\n\n\nTitanic Survival Prediction\nAn end to end classification project with feature engineering, model comparison, hyperparameter tuning, and cross validation to predict passenger survival.\nBuilt with: Python, scikit-learn\nSource code"
+    "section": "",
+    "text": "Selected projects pinned on GitHub, excluding the graphic editor.\n\n\nA browser based AI interviewer that conducts adaptive technical interviews, asks follow-up questions, evaluates answers, and produces a performance report.\nBuilt with: JavaScript, Node.js, AssemblyAI Voice Agent API, WebSockets, Render\nLive demo · Source code\n\n\n\nAn end to end machine learning project for predicting telecom customer churn, with preprocessing, class imbalance handling, Optuna tuning, and a Streamlit prediction app.\nBuilt with: Python, scikit-learn, SMOTE, Optuna, Streamlit, Pandas\nSource code\n\n\n\nA Kaggle regression project using preprocessing, feature engineering, and Gradient Boosting to predict residential sale prices.\nBuilt with: Python, Pandas, Gradient Boosting\nSource code\n\n\n\nAn end to end classification project with feature engineering, model comparison, hyperparameter tuning, and cross validation to predict passenger survival.\nBuilt with: Python, scikit-learn\nSource code"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
     "title": "Swaroop Khan’s Portfolio",
-    "section": "Technical Skills",
-    "text": "Technical Skills\n\nProgramming: Python, C, C++, JavaScript, SQL\nMachine learning and data science: scikit-learn, Gradient Boosting, XGBoost, feature engineering, NumPy, Pandas, Matplotlib, Seaborn, Plotly\nModel development: Optuna, SMOTE (imbalanced-learn), Joblib, Jupyter\nWeb and application development: Node.js, HTML, CSS, Next.js, React, Tailwind CSS, Streamlit\nAPIs and data: REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL\nTools and deployment: Git, GitHub, Render, Vercel, Kaggle, Arduino, Requests, python-dotenv\n\nThese technologies are reflected across my repositories, including data analysis notebooks, machine learning projects, web applications, and API integrations."
+    "section": "",
+    "text": "Programming: Python, C, C++, JavaScript, SQL\nMachine learning and data science: scikit-learn, Gradient Boosting, XGBoost, feature engineering, NumPy, Pandas, Matplotlib, Seaborn, Plotly\nModel development: Optuna, SMOTE (imbalanced-learn), Joblib, Jupyter\nWeb and application development: Node.js, HTML, CSS, Next.js, React, Tailwind CSS, Streamlit\nAPIs and data: REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL\nTools and deployment: Git, GitHub, Render, Vercel, Kaggle, Arduino, Requests, python-dotenv"
   },
   {
     "objectID": "index.html#certificates",
     "href": "index.html#certificates",
     "title": "Swaroop Khan’s Portfolio",
-    "section": "Certificates",
-    "text": "Certificates\n\nPython for Data Science — IBM (April 2026)\nData Analysis Using Python — IBM (April 2026)\nData Visualization Using Python — IBM (April 2026)\nClaude Code 101 — Anthropic (April 2026)\nAI Fluency: Framework & Foundations — Anthropic (March 2026)\nClaude Code in Action — Anthropic (March 2026)\nClaude 101 — Anthropic (March 2026)"
+    "section": "",
+    "text": "Python for Data Science — IBM (April 2026)\nData Analysis Using Python — IBM (April 2026)\nData Visualization Using Python — IBM (April 2026)\nClaude Code 101 — Anthropic (April 2026)\nAI Fluency: Framework & Foundations — Anthropic (March 2026)\nClaude Code in Action — Anthropic (March 2026)\nClaude 101 — Anthropic (March 2026)"
   },
   {
     "objectID": "index.html#resume",
     "href": "index.html#resume",
     "title": "Swaroop Khan’s Portfolio",
-    "section": "Resume",
-    "text": "Resume\nDownload my resume (PDF) · Open the PDF in a new tab"
+    "section": "",
+    "text": "Download my resume (PDF) · Open the PDF in a new tab"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Swaroop Khan’s Portfolio",
-    "section": "Contact",
-    "text": "Contact\n\nGitHub\nLinkedIn\nLeetCode\nEmail"
+    "section": "",
+    "text": "Name: Swaroop Khan\n\n\nPhone: +91 8431651691\n\n\nEmail: swaroopkhanp@gmail.com\n\n\nLinkedIn: Swaroop Khan\n\n\nGitHub: swaroop-khan\n\n\nLeetCode: swaroop-khan"
   },
   {
     "objectID": "projects.html",
