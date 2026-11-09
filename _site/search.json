@@ -2,22 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hi, I’m Swaroop Khan 👋",
+    "title": "Swaroop Khan",
     "section": "",
-    "text": "Hi, I’m Swaroop Khan 👋\n\nComputer Science Engineering Student | AI & ML Enthusiast\nI’m a B.Tech student passionate about Artificial Intelligence, Machine Learning, and technology.\n🎓 CSE — Artificial Intelligence & Machine Learning 📅 Class of 2029\n\nLearning, building, and exploring — one step at a time."
+    "text": "Computer Science Engineering student. Artificial Intelligence and Machine Learning. Projects. Resume."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "VoxHire AI Voice Interviewer. Telecom Customer Churn Prediction. House Price Prediction. Titanic Survival Prediction."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "portfolio",
+    "title": "About Me",
     "section": "",
-    "text": "I’m Swaroop Khan, currently pursuing my B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning, with an expected graduation in 2029.\nI’m curious about how technology can be used to solve real-world problems and I’m especially interested in exploring Artificial Intelligence and Machine Learning in greater depth.\n\n\nBachelor of Technology (B.Tech) Computer Science Engineering — Artificial Intelligence & Machine Learning Expected Graduation: 2029\n\n\n\n\nArtificial Intelligence\nMachine Learning\nData Science\nProgramming & Problem Solving\nExploring new technologies\n\n\n\n\nLanguages: C, C++, Python Libraries & Tools: NumPy, Pandas, Matplotlib, Plotly, Scikit-learn Other: JSON, Arduino, Git & GitHub\n\n\n\nI’m focused on continuously learning, experimenting with new technologies, and turning what I learn into practical projects."
+    "text": "Education Reva University. Technical skills Python C C++ JavaScript SQL scikit-learn Optuna Streamlit Next.js React Tailwind CSS Supabase PostgreSQL Render. Certificates. GitHub LinkedIn LeetCode."
   },
   {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "portfolio",
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
     "section": "",
-    "text": "I’m Swaroop Khan, currently pursuing my B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning, with an expected graduation in 2029.\nI’m curious about how technology can be used to solve real-world problems and I’m especially interested in exploring Artificial Intelligence and Machine Learning in greater depth.\n\n\nBachelor of Technology (B.Tech) Computer Science Engineering — Artificial Intelligence & Machine Learning Expected Graduation: 2029\n\n\n\n\nArtificial Intelligence\nMachine Learning\nData Science\nProgramming & Problem Solving\nExploring new technologies\n\n\n\n\nLanguages: C, C++, Python Libraries & Tools: NumPy, Pandas, Matplotlib, Plotly, Scikit-learn Other: JSON, Arduino, Git & GitHub\n\n\n\nI’m focused on continuously learning, experimenting with new technologies, and turning what I learn into practical projects."
+    "text": "Download and view Swaroop Khan resume PDF."
   }
 ]
