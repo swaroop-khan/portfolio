@@ -7,11 +7,18 @@ website:
   title: "Swaroop Khan"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-      - about.qmd
-      - resume.qmd
+      - href: index.qmd#about-me
+        text: About Me
+      - href: index.qmd#projects
+        text: Projects
+      - href: index.qmd#technical-skills
+        text: Technical Skills
+      - href: index.qmd#certificates
+        text: Certificates
+      - href: index.qmd#resume
+        text: Resume
+      - href: index.qmd#contact
+        text: Contact
 
 format:
   html:
