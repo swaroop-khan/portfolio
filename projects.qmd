@@ -1,0 +1,37 @@
+---
+title: "Projects"
+---
+
+Here are selected projects from my portfolio and resume.
+
+## VoxHire — AI Voice Interviewer
+
+A browser based AI interviewer that conducts adaptive technical interviews, asks follow-up questions, evaluates answers, and produces a performance report.
+
+**Built with:** JavaScript, Node.js, AssemblyAI Voice Agent API, WebSockets, Render
+
+[Live demo](https://voice-agent-r3fb.onrender.com) · [Source code](https://github.com/swaroop-khan/Voxhire)
+
+## Telecom Customer Churn Prediction
+
+An end to end machine learning project for predicting telecom customer churn, with preprocessing, class imbalance handling, Optuna tuning, and a Streamlit prediction app.
+
+**Built with:** Python, scikit-learn, SMOTE, Optuna, Streamlit, Pandas
+
+[Source code](https://github.com/swaroop-khan/telecom-customer-churn-prediction)
+
+## House Price Prediction
+
+A Kaggle regression project using preprocessing, feature engineering, and Gradient Boosting to predict residential sale prices.
+
+**Built with:** Python, Pandas, Gradient Boosting
+
+[Source code](https://github.com/swaroop-khan/house-price-prediction)
+
+## Titanic Survival Prediction
+
+An end to end classification project with feature engineering, model comparison, hyperparameter tuning, and cross validation to predict passenger survival.
+
+**Built with:** Python, scikit-learn
+
+[Source code](https://github.com/swaroop-khan/titanic-survival-ml)
