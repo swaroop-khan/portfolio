@@ -1,13 +1,17 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - resume.pdf
 website:
-  title: "portfolio"
+  title: "Swaroop Khan"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - projects.qmd
       - about.qmd
+      - resume.qmd
 
 format:
   html:
@@ -16,6 +20,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
