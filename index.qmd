@@ -1,9 +1,99 @@
-# Hi, I'm Swaroop Khan 👋
+---
+title: "Swaroop Khan's Portfolio"
+---
 
-### Computer Science Engineering Student | AI & ML Enthusiast
+## About Me {#about-me}
 
-I'm a B.Tech student at Reva University, specializing in **Artificial Intelligence and Machine Learning** (Class of 2029). I enjoy turning ideas into practical software, data science, and machine learning projects.
+I'm **Swaroop Khan**, a Computer Science Engineering student at Reva University, Bengaluru, specializing in Artificial Intelligence and Machine Learning. I expect to graduate in 2029.
 
-**Currently exploring:** AI agents, predictive modeling, and full stack application development.
+I enjoy building practical software and machine learning projects, from data analysis and predictive models to browser based AI applications.
 
-[Explore my projects](projects.qmd) · [View my resume](resume.qmd) · [Connect on LinkedIn](https://linkedin.com/in/swaroop-khan)
+### Education
+
+**Reva University, Bengaluru**  
+B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)  
+Expected 2029 · CGPA: 8.62/10
+
+**Primus Public School, Bengaluru**  
+Class XII: Physics, Chemistry, Mathematics and Computer Science  
+2025 · 90%
+
+---
+
+## Projects {#projects}
+
+Selected projects featured on my resume.
+
+### VoxHire — AI Voice Interviewer
+
+A browser based AI interviewer that conducts adaptive technical interviews, asks follow-up questions, evaluates answers, and produces a performance report.
+
+**Built with:** JavaScript, Node.js, AssemblyAI Voice Agent API, WebSockets, Render
+
+[Live demo](https://voice-agent-r3fb.onrender.com) · [Source code](https://github.com/swaroop-khan/Voxhire)
+
+### Telecom Customer Churn Prediction
+
+An end to end machine learning project for predicting telecom customer churn, with preprocessing, class imbalance handling, Optuna tuning, and a Streamlit prediction app.
+
+**Built with:** Python, scikit-learn, SMOTE, Optuna, Streamlit, Pandas
+
+[Source code](https://github.com/swaroop-khan/telecom-customer-churn-prediction)
+
+### House Price Prediction
+
+A Kaggle regression project using preprocessing, feature engineering, and Gradient Boosting to predict residential sale prices.
+
+**Built with:** Python, Pandas, Gradient Boosting
+
+[Source code](https://github.com/swaroop-khan/house-price-prediction)
+
+### Titanic Survival Prediction
+
+An end to end classification project with feature engineering, model comparison, hyperparameter tuning, and cross validation to predict passenger survival.
+
+**Built with:** Python, scikit-learn
+
+[Source code](https://github.com/swaroop-khan/titanic-survival-ml)
+
+---
+
+## Technical Skills {#technical-skills}
+
+- **Programming:** Python, C, C++, JavaScript, SQL
+- **Machine learning and data science:** scikit-learn, Gradient Boosting, XGBoost, feature engineering, NumPy, Pandas, Matplotlib, Seaborn, Plotly
+- **Model development:** Optuna, SMOTE (imbalanced-learn), Joblib, Jupyter
+- **Web and application development:** Node.js, HTML, CSS, Next.js, React, Tailwind CSS, Streamlit
+- **APIs and data:** REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL
+- **Tools and deployment:** Git, GitHub, Render, Vercel, Kaggle, Arduino, Requests, python-dotenv
+
+These technologies are reflected across my repositories, including data analysis notebooks, machine learning projects, web applications, and API integrations.
+
+---
+
+## Certificates {#certificates}
+
+- Python for Data Science — IBM (April 2026)
+- Data Analysis Using Python — IBM (April 2026)
+- Data Visualization Using Python — IBM (April 2026)
+- Claude Code 101 — Anthropic (April 2026)
+- AI Fluency: Framework & Foundations — Anthropic (March 2026)
+- Claude Code in Action — Anthropic (March 2026)
+- Claude 101 — Anthropic (March 2026)
+
+---
+
+## Resume {#resume}
+
+[Download my resume (PDF)](resume.pdf){download="Swaroop_Khan_Resume.pdf"} · [Open the PDF in a new tab](resume.pdf)
+
+<iframe src="resume.pdf" title="Swaroop Khan resume" width="100%" height="850" style="border: 1px solid #ddd; border-radius: 8px;"></iframe>
+
+---
+
+## Contact {#contact}
+
+- [GitHub](https://github.com/swaroop-khan)
+- [LinkedIn](https://linkedin.com/in/swaroop-khan)
+- [LeetCode](https://leetcode.com/u/swaroop-khan/)
+- [Email](mailto:swaroopkhanp@gmail.com)
