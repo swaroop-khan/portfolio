@@ -1,29 +1,47 @@
+---
+title: "About"
+---
+
 ## About Me
 
-I'm **Swaroop Khan**, currently pursuing my **B.Tech in Computer Science Engineering with a specialization in Artificial Intelligence & Machine Learning**, with an expected graduation in **2029**.
+I'm **Swaroop Khan**, a Computer Science Engineering student at Reva University, Bengaluru, specializing in Artificial Intelligence and Machine Learning. I expect to graduate in 2029.
 
-I'm curious about how technology can be used to solve real-world problems and I'm especially interested in exploring **Artificial Intelligence and Machine Learning** in greater depth.
+I enjoy building practical software and machine learning projects, from data analysis and predictive models to browser based AI applications.
 
-### 🎓 Education
+## Education
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science Engineering — Artificial Intelligence & Machine Learning  
-**Expected Graduation: 2029**
+**Reva University, Bengaluru**  
+B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)  
+Expected 2029 · CGPA: 8.62/10
 
-### 💡 Interests
+**Primus Public School, Bengaluru**  
+Class XII: Physics, Chemistry, Mathematics and Computer Science  
+2025 · 90%
 
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Programming & Problem Solving
-* Exploring new technologies
+## Technical Skills
 
-### 🛠️ Technologies
+- **Programming:** Python, C, C++, JavaScript, SQL
+- **Machine learning and data science:** scikit-learn, Gradient Boosting, XGBoost, feature engineering, NumPy, Pandas, Matplotlib, Plotly
+- **Model development:** Optuna, SMOTE (imbalanced-learn), Joblib, Jupyter
+- **Web and application development:** Node.js, HTML, CSS, Streamlit, Next.js, React, Tailwind CSS
+- **APIs and data:** REST APIs, WebSockets, AssemblyAI Voice Agent API, Supabase, PostgreSQL
+- **Tools and deployment:** Git, GitHub, Render, Vercel, Arduino
 
-**Languages:** C, C++, Python  
-**Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Plotly, Scikit-learn  
-**Databases & Tools:** Supabase, JSON, Arduino, Git & GitHub  
+These skills are reflected across my repositories, including data analysis notebooks, machine learning projects, web applications, and API integrations.
 
-### 🌱 My Approach
+## Certificates
 
-I'm focused on continuously learning, experimenting with new technologies, and turning what I learn into practical projects.
+- Python for Data Science — IBM (April 2026)
+- Data Analysis Using Python — IBM (April 2026)
+- Data Visualization Using Python — IBM (April 2026)
+- Claude Code 101 — Anthropic (April 2026)
+- AI Fluency: Framework & Foundations — Anthropic (March 2026)
+- Claude Code in Action — Anthropic (March 2026)
+- Claude 101 — Anthropic (March 2026)
+
+## Connect
+
+- [GitHub](https://github.com/swaroop-khan)
+- [LinkedIn](https://linkedin.com/in/swaroop-khan)
+- [LeetCode](https://leetcode.com/u/swaroop-khan/)
+- [Email](mailto:swaroopkhanp@gmail.com)
