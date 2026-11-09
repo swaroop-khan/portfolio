@@ -73,13 +73,13 @@ An end to end classification project with feature engineering, model comparison,
 
 ## Certificates {#certificates}
 
-- Python for Data Science — IBM (April 2026)
-- Data Analysis Using Python — IBM (April 2026)
-- Data Visualization Using Python — IBM (April 2026)
-- Claude Code 101 — Anthropic (April 2026)
-- AI Fluency: Framework & Foundations — Anthropic (March 2026)
-- Claude Code in Action — Anthropic (March 2026)
-- Claude 101 — Anthropic (March 2026)
+- [Python for Data Science](https://www.coursera.org/learn/python-for-applied-data-science-ai) — IBM (April 2026)
+- [Data Analysis Using Python](https://www.coursera.org/learn/data-analysis-python) — IBM (April 2026)
+- [Data Visualization Using Python](https://www.coursera.org/learn/python-for-data-visualization) — IBM (April 2026)
+- [Claude Code 101](https://anthropic.skilljar.com/claude-code-101) — Anthropic (April 2026)
+- [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) — Anthropic (March 2026)
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) — Anthropic (March 2026)
+- [Claude 101](https://anthropic.skilljar.com/claude-101) — Anthropic (March 2026)
 
 ## Resume {#resume}
 
