@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: _site
   resources:
-    - resume.pdf
+    - Swaroop_Khan_Resume.pdf
 website:
   title: "Swaroop Khan"
   navbar:
@@ -15,7 +15,7 @@ website:
         text: Technical Skills
       - href: index.qmd#certificates
         text: Certificates
-      - href: resume.pdf
+      - href: Swaroop_Khan_Resume.pdf
         text: My Resume
       - href: index.qmd#contact
         text: Contact

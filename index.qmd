@@ -23,7 +23,7 @@ I’m a B.Tech student at Reva University, Bengaluru, interested in applying AI 
 # Swaroop Khan’s Portfolio
 
 ::: {.portfolio-nav}
-[Projects](#projects) · [Technical Skills](#technical-skills) · [Certificates](#certificates) · [My Resume](resume.pdf) · [Contact](#contact)
+[Projects](#projects) · [Technical Skills](#technical-skills) · [Certificates](#certificates) · [My Resume](Swaroop_Khan_Resume.pdf) · [Contact](#contact)
 :::
 
 ## Projects {#projects}
@@ -83,7 +83,7 @@ An end to end classification project with feature engineering, model comparison,
 
 ## Resume {#resume}
 
-[Open my resume (PDF)](resume.pdf){.resume-link}
+[Open my resume (PDF)](Swaroop_Khan_Resume.pdf){.resume-link}
 
 ## Contact {#contact}
 

@@ -4,4 +4,4 @@ title: "Resume"
 
 ## Resume
 
-[Open my resume (PDF)](resume.pdf){.resume-link}
+[Open my resume (PDF)](Swaroop_Khan_Resume.pdf){.resume-link}
